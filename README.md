@@ -4,7 +4,9 @@ This project demonstrates the exploitation of the Sudo privilege escalation vuln
 
 **Technologies Used:**
 **Operating Systems:** Parrot OS, Ubuntu 
+
 **Tools:** Sudo command, Bash scripting
+
 **Environment:** Virtualized environment for safe testing and execution
 
 **Steps Involved**
