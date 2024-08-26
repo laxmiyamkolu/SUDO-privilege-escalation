@@ -3,7 +3,7 @@
 This project demonstrates the exploitation of the Sudo privilege escalation vulnerability (CVE-2023-22809). The objective is to simulate how an attacker can gain unauthorized root access by exploiting this vulnerability in a controlled environment.
 
 **Technologies Used:**
-**Operating Systems:** Parrot OS, Ubuntu
+**Operating Systems:** Parrot OS, Ubuntu 
 **Tools:** Sudo command, Bash scripting
 **Environment:** Virtualized environment for safe testing and execution
 
